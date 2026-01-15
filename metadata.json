@@ -1,0 +1,7 @@
+{
+  "name": "FitTracker Pro",
+  "description": "A comprehensive health and fitness tracking application featuring workout planning, BMI calculations, streak tracking, and AI-powered fitness coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
